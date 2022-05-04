@@ -1,6 +1,6 @@
 # AmpFit
 
-This is a package that can be used to perform any three-body amplitude fit. I developed it as a part of one of my PhD projects.
+This is a package that can be used to perform any three-body amplitude fit. I developed it as part of one of my PhD projects.
 
 Due to official constraints, only some key parts of the source codes will be available on github as of now. The entire package will be posted as soon as I am free to do so.
 
