@@ -6,7 +6,7 @@ This is a package that can be used to perform any three-body amplitude fit. I de
 - TMinuit package from ROOT is used to implement Migrad optimization algorithm.
 - Migrad calculates second derivative Hessian matrix and used inverse of it as dynamic learning rate. This Hessian matrix can be understood as curvature of the slope.
 
-x_new = x_old - H⁻¹ * ∇f(x_old)
+$x_{new} = x_{old} - H^{-1} \nabla f(x_{old})$
 
 
 ## Particle physics details
